@@ -18,7 +18,7 @@ First, clone the LectraClaim project from GitHub to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-repository/lectraclaim.git
+git clone https://github.com/ImaanEbrahim/PROG6212_poe_part_1_st10021922.git
 Open the Project in Visual Studio
 
 Launch Visual Studio.
